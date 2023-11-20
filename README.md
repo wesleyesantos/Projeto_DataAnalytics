@@ -1,2 +1,2 @@
 # Projeto_DataAnalytics
-Projeto acompanhado pelo youtube
+1o projeto de python
